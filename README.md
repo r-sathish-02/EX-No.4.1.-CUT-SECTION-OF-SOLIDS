@@ -11,31 +11,35 @@ To create the solid model from given drawing and section the solid model
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## PROCEDURE:
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
-
-![image](https://user-images.githubusercontent.com/113594316/198825274-c6a8d3ee-fb19-4641-b915-8d2e000c40a8.png)
-
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198825282-0d3de4b8-b6d9-446a-ae2a-461955057399.png)
-
-5.	Use inspect feature to measure the dimensions of sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198825301-194365b4-69d2-42ad-8545-a68d3ca1f442.png)
-
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198825314-b90f6aba-da26-4f0d-8d61-a03e8ad0d765.png)
-
-7.Use extrude option to convert 3D model from sketch
-
-![image](https://user-images.githubusercontent.com/113594316/198825328-205fac21-1322-4d67-894b-6fd92e454e26.png)
-
-8.Use revolve option to convert 2D to 3D.
-
-![image](https://user-images.githubusercontent.com/113594316/198825337-455049de-f053-48b8-9dd0-ebeb189c0dde.png)
+ <table>
+  <tr>
+   <td>1.	Open new file and then select sketch icon.</td><td> 2.	Select the plane for sketching. </td>
+  </tr>
+  <tr>
+   <td>
+    3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.<br><img height=10% width=40% src="https://user-images.githubusercontent.com/113594316/198232594-2187c1c1-4e85-437f-99f7-263bb1a3e968.png">
+   </td>
+   <td>
+    4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.<br><img height=10% width=40% src="https://user-images.githubusercontent.com/113594316/198232771-48e6582d-4410-430a-a9d4-70e400255580.png">
+   </td>
+  </tr>
+  <tr>
+   <td>
+     5.	Use inspect feature to measure the dimensions of sketch.<br><img height=10% width=40% src="https://user-images.githubusercontent.com/113594316/198232845-1608e574-732c-44b2-9921-39e920b70e2e.png">
+   </td>
+   <td>   
+    6.	After finishing the sketch use finish sketch option to finalize the sketch.<br><img height=10% width=40% src="https://user-images.githubusercontent.com/113594316/198232907-8275f39c-9031-4cf4-b0c4-8eb568e477ab.png">
+   </td>
+  </tr>
+  <tr>
+   <td>
+    7.	Use extrude option to convert 3D model from sketch<br><img height=10% width=40% src="https://user-images.githubusercontent.com/113594316/198551340-fe1f3b48-df79-44ef-a4ae-ff1cd22503ea.png">
+   </td>
+   <td>
+   8.Use revolve option to convert 2D to 3D.<br><img height=10% width=40% src="https://user-images.githubusercontent.com/113594316/198825337-455049de-f053-48b8-9dd0-ebeb189c0dde.png">
+   </td>
+  </tr>
+ </table>
 
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
